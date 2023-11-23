@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aalanwyr
 - 👀 I am working at Intel for GPU Project
 - 📫 https://www.cnblogs.com/aalan/
-- 📫 https://www.zhihu.com/people/wu-wei-41-73-83
+- 📫 https://www.zhihu.com/people/wu-wei-41-73-83/posts
 
 <!---
 aalanwyr/aalanwyr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
