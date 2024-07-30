@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @aalanwyr
-- 👀 I am working at Intel for GPU Project
+- 👀 Worked at Intel for GPU Project
+- 👀 Now I am working at NVIDIA for GPU SW
 - 📫 https://www.cnblogs.com/aalan/
 - 📫 https://www.zhihu.com/people/wu-wei-41-73-83/posts
 
